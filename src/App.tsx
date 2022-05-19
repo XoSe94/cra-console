@@ -19,7 +19,8 @@ function App() {
         >
           Learn React
         </a>
-        <p> 21</p>
+          <p>21</p>
+          <p>21323</p>
       </header>
     </div>
   );
